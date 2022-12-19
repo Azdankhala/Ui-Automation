@@ -1,0 +1,12 @@
+prerequisites: - Need to have Google Chrome latest version
+		   - Need to have Chrome Driver
+		   - Need to have Selenium java
+		   - Need to have Eclips
+
+
+Run Steps: 
+1. Download and install Google Chrome
+2. Download and install Chrome Driver
+3. Download and install Eclips
+4. Add all the .jar files on the selenium to the Eclips (include .jar files on the lib folder)
+5. Run the Code 
